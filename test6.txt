@@ -1,0 +1,22 @@
+Categoria
+Carros, vans e utilitários
+Modelo
+JEEP RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.
+Marca
+JEEP
+Tipo de veículo
+SUV
+Ano
+2018 /   2018
+Quilometragem
+23000
+Potência do motor
+1.8
+Combustível
+Flex
+Câmbio
+Automático
+Cor
+Branco
+Final de placa
+4

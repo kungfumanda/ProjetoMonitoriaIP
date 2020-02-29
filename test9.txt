@@ -1,0 +1,24 @@
+Categoria
+Carros, vans e utilitários
+Modelo
+RENAULT LOGAN EXPRESSION FLEX 1.0 12V 4P
+Marca
+RENAULT
+Tipo de veículo
+Passeio
+Ano
+2019 / 2019
+Potência do motor
+1.0
+Quilometragem
+35381
+Combustível
+Flex
+Câmbio
+Manual
+Cor
+Branco
+Portas
+4 portas
+Final de placa
+1

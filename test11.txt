@@ -1,0 +1,24 @@
+Categoria
+Carros, vans e utilitários
+Modelo
+TOYOTA COROLLA
+Marca
+TOYOTA
+Tipo de veículo
+Sedã
+Ano
+2018 / 2018
+Quilometragem
+41150
+Potência do motor
+2.0 
+Combustível
+Flex
+Câmbio
+Automático
+Cor
+Branco
+Portas
+4 portas
+Final de placa
+4

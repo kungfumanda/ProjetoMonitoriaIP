@@ -1,0 +1,25 @@
+Categoria
+Carros, vans e utilitários
+Modelo
+GM - CHEVROLET CORSA SED CLASSIC SUPER 1.6 MPFI VHC 8V
+Marca
+GM - CHEVROLET
+Tipo de veículo
+Sedã
+Ano
+2008 / 2008
+Quilometragem
+128000
+Potência do motor
+1.0
+Combustível
+Flex
+Câmbio
+Manual
+Direção
+Hidráulica
+Cor
+Azul
+Portas
+4 portas
+Final de placa

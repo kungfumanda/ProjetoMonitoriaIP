@@ -1,0 +1,24 @@
+Categoria
+Carros, vans e utilitários
+Modelo
+HONDA CIVIC SEDAN LX 2.0 FLEX 16V AUT. 4P
+Marca
+HONDA
+Tipo de veículo
+Sedã
+Ano
+2020 / 2020
+Quilometragem
+8000
+Potência do motor
+2.0
+Combustível
+Flex
+Câmbio
+Automático
+Direção
+Elétrica
+Cor
+Branco
+Portas
+4 portas

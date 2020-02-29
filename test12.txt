@@ -1,0 +1,26 @@
+Categoria
+Carros, vans e utilitários
+Modelo
+FIAT UNO VIVACE/RUA 1.0 EVO FIRE FLEX 8V 5P
+Marca
+FIAT
+Tipo de veículo
+Passeio
+Ano
+2012 / 2012
+Quilometragem
+89000
+Potência do motor
+1.0
+Combustível
+Flex
+Câmbio
+Manual
+Direção
+Hidráulica
+Cor
+Preto
+Portas
+4 portas
+Final de placa
+5

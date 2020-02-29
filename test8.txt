@@ -1,0 +1,26 @@
+Categoria
+Carros, vans e utilitários
+Modelo
+RENAULT KWID ZEN 1.0 FLEX 12V 5P MEC.
+Marca
+RENAULT
+Tipo de veículo
+Hatch
+Ano
+2020 / 2020
+Quilometragem
+5000
+Potência do motor
+1.0
+Combustível
+Flex
+Câmbio
+Manual
+Direção
+Elétrica
+Cor
+Preto
+Portas
+4 portas
+Final de placa
+6
