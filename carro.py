@@ -2,11 +2,11 @@
 class Carro():
     qte_carros = 0
 
-    def __init__(self):
-        self.ano = ''
-        self.cor = ''
-        self.quilometragem = ''
-        self.marca = ''
+    def __init__(self, ano = '', cor = '', quilometragem = '', marca = ''):
+        self.ano = ano
+        self.cor = cor
+        self.quilometragem = quilometragem
+        self.marca = marca
 
         Carro.qte_carros += 1
 
@@ -17,7 +17,11 @@ class Carro():
         self.cor = cor
 
     def set_km(self, quilometragem):
-        self.quilometragem = quilometragem
+        self.quilometragem = int(quilometragem)
 
     def set_marca(self, marca):
         self.marca = marca
+
+    def to_dict(self):
+        return {'Cor': self.cor, 'Quilometragem': self.quilometragem, 'Marca': self.marca, 'Ano': self.ano }
+        

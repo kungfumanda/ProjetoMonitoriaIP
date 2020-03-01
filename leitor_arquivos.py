@@ -25,19 +25,17 @@ def organizar_entradas():
     for i in range(len(testes)):
         catalogo[i] = Carro()
         aux = testes[i].split('\n')
-        print(catalogo[i])
         if aux[0].lower() != "categoria":
             catalogo[i].set_marca(aux[0].split()[0])
         for a in range(len(aux)):
             if aux[a].lower() == "marca":
-                catalogo[i].set_marca(aux[a+1])
+                catalogo[i].set_marca(aux[a+1].replace("GM - ", "").title())
             elif aux[a].lower() == "quilometragem" or aux[a].lower() == "km":
                 catalogo[i].set_km(str(aux[a + 1]))
             elif aux[a].lower() == "cor":
                 catalogo[i].set_cor(aux[a + 1])
             elif aux[a].lower() == "ano":
-                txt = str(aux[a+1]) + str(aux[a+2]) + str(aux[a+3])
-                catalogo[i].set_ano(txt)
+                catalogo[i].set_ano(' '.join(str(aux[a + 1]).split()))
     return catalogo
 
 
